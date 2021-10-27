@@ -17,4 +17,4 @@ Below are the few common libraries commonly used for data science.
 * Scikit Learn
 * Statsmodels
 
-Here you can find the quick tricks for using these libraries.
+Here you can find the quick tricks that will save your time and energy every time you use these libraries.
