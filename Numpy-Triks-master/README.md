@@ -1,2 +1,2 @@
-# Numpy-Triks
-it consis of almost all the commands
+# Numpy-Tricks
+NumPy is one of the most essential Python Libraries for scientific computing and it is used heavily for the applications of Machine Learning and Deep Learning. NumPy stands for NUMerical PYthon. Machine learning algorithms are computationally complex and require multidimensional array operations. NumPy provides support for large multidimensional array objects and various tools to work with them.
